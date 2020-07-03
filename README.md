@@ -1,5 +1,5 @@
 ##### Quick PDF:
-[competitionuos (1).pdf](https://github.com/samsamiczy/eda-competition/files/4869046/competitionuos.1.pdf)
+[competitionuos.pdf](https://github.com/samsamiczy/eda-competition/files/4869060/competitionuos.pdf)
 ###
 
 ![ss1](https://user-images.githubusercontent.com/57573839/86457330-ca137800-bd23-11ea-838f-e3e416bba7d4.JPG)
